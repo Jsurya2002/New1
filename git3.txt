@@ -1,0 +1,4 @@
+function podbic(){
+console.log('Hello podbic')
+}
+podbic()
